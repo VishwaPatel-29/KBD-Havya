@@ -1,7 +1,7 @@
 # 🚌 KBD-Havya - Smart Corporate Shuttle Platform
 
 <div align="center">
-  <img src="client/KBD_Havya_logo_v4.svg" alt="KBD-Havya Logo" width="680" height="280">
+  <!-- <img src="client/KBD_Havya_logo_v4.svg" alt="KBD-Havya Logo" width="680" height="280"> -->
   
   **KBD-Havya** is a smart on-demand corporate shuttle platform that dynamically routes vehicles based on real-time employee demand. 🚀
 </div>
